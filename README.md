@@ -34,7 +34,7 @@ Filtros predefinidos de los países en los que Breather ofrece empleo.
 ![Navegación global](assets/images/breather/diapositiva9.jpg)
 El footer también presenta un tipo de navegación gobal, tiene la misma estructura de la barra principal y se muestra en todas las páginas.
 
-## Github
+### Github
 
 ![Navegación global](assets/images/github/diapositiva1.jpg)
 Barra superior, aparece en todas las páginas. Contiene el logo de Github, utilidades para agregar repositorios nuevos y acceder al menú de usuario, y permite navegar por las demás opciones de la página.
@@ -54,4 +54,22 @@ Menú desplegable que permite indicar si se quiere filtrar los trending por per�
 ![Navegación global - pie de página](assets/images/github/diapositiva6.jpg)
 El footer contiene también links que permiten navegar por la página, son opciones diferentes a las de la barra superior y no están enfocadas al trabajo del usuario, sino más bien a información de Github en sí. Aparece en todas las páginas.
 
-## Medium
+### Medium
+
+![Navegación global - facetada](assets/images/medium/diapositiva1.jpg)
+En el header se encuentran dos tipos de navegación: la global y la facetada. La global se evidencia en la persistencia y la importancia que tiene en la navegación de los usuarios. La navegación facetada, entra al tener categorías predefinidas que filtran los artículos por temas o etiquetas.
+
+![Navegación contextual](assets/images/medium/diapositiva2.jpg)
+Al finalizar un artículo se encuentra debajo de este, una sección de sugerencias de otros artículos en base a un tema en común.
+
+![Navegación en línea](assets/images/medium/diapositiva3.jpg)
+Dentro de los artículos, se encuentran links adicionales.
+
+![Navegación facetada](assets/images/medium/diapositiva4.jpg)
+Categorías predefinidas de los artículos separados por temas.
+
+![Navegación facetada](assets/images/medium/diapositiva5.jpg)
+Temas predefinidos por la página para separar las preguntas en la sección de ayuda.
+
+![Navegación global - pie de página](assets/images/medium/diapositiva6.jpg)
+División de equipos definidos por Medium en los que se encuentra un puesto de trabajo abierto.
